@@ -81,12 +81,12 @@ npm run start
 yarn build
 yarn start
 
-# Running Tests
+### Running Tests
 
 npm run test:e2e
 # or
 yarn test:e2e
 
-# Conclusion
+#### Conclusion
 
 The template-nuxt3-pinia-tailwind-i18n-cypress project provides a comprehensive foundation for developing modern web applications. By integrating Nuxt 3, Pinia, Tailwind CSS, i18n, and Cypress, this template ensures a seamless development experience with powerful state management, styling, internationalization, and testing capabilities.
