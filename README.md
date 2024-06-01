@@ -81,11 +81,13 @@ npm run start
 yarn build
 yarn start
 
+```
 ### Running Tests
-
+```
 npm run test:e2e
 # or
 yarn test:e2e
+```
 
 #### Conclusion
 
